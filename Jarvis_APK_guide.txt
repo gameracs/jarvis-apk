@@ -1,0 +1,27 @@
+JARVIS ILOVASI - APK QANDAY YASALADI (README)
+
+1. ANDROID STUDIO ORNATISH
+- https://developer.android.com/studio dan yuklab oling
+- O'rnating va ishga tushiring
+
+2. LOYIHANI OCHISH
+- JarvisApp.zip faylni extract qiling (zipdan chiqaring)
+- Android Studio da "Open Project" tugmasini bosib, ochilgan papkani tanlang
+
+3. LOYIHANI TAYYORLASH
+- Internetga ulangan bo'ling (Google STT ishlashi uchun)
+- Build > Clean Project
+- Build > Rebuild Project
+
+4. APK YASASH
+- Build > Build Bundle(s) / APK(s) > Build APK(s)
+- Tugagach, ekranning pastida “APK(s) generated successfully” degan yozuv chiqadi
+- “Locate” tugmasini bosing va .apk faylni toping
+
+5. TELEFONGA O‘RNATISH
+- Telefoningizda “Unknown Sources” (noma'lum manbalar) orqali o‘rnatishga ruxsat bering
+- APK faylni telefoningizga o‘tkazing va ustiga bosib o‘rnating
+- Jarvis ishga tushadi
+
+MUHIM:
+- Ilova telefon funksiyalariga kira olishi uchun barcha ruxsatlarni bering (kamera, mikrafon, telefon)
